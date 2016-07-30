@@ -5,7 +5,11 @@
 Daniel Larimer, Ned Scott, Valentine Zavgorodnev, Benjamin Johnson,James Calfee, Michael Vandeberg
 2016年3月
 
-中文翻译版由［somebody］(https://steemit.com/@somebody) 于2016年7月完成。
+中文翻译版由somebody于2016年7月完成。
+
+Github: [https://github.com/asalei/steem-cn](https://github.com/asalei/steem-cn)
+
+Somebody在Steem主页: [https://steemit.com/@somebody](https://steemit.com/@somebody)
 
 \newpage
 
